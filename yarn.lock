@@ -2,7 +2,6 @@
 # yarn lockfile v1
 
 
-"@autexis/balluff-007-protocol@0.0.1":
+"@autexis/balluff-007-protocol@git+https://github.com/skadisch/balluff-007-protocol.git#0cf7e32dbc0f512d2646809291c8486444a1477d":
   version "0.0.1"
-  resolved "https://registry.yarnpkg.com/@autexis/balluff-007-protocol/-/balluff-007-protocol-0.0.1.tgz#4a42f40b977e4f5f25bb184d0321936149313eaa"
-  integrity sha512-J1RCoRGDIF7Y2WGV4wqNkR6FcTYKe0lgjFE9mSkXC0z6eDNNk9X275GcXZYLFTqciu81/RfYBfVbf1Lm8wMVGg==
+  resolved "git+https://github.com/skadisch/balluff-007-protocol.git#0cf7e32dbc0f512d2646809291c8486444a1477d"

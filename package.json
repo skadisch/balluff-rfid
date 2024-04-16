@@ -10,6 +10,6 @@
         "node": ">=16.0.0"
     },
     "dependencies": {
-        "@autexis/balluff-007-protocol": "0.0.1"
+        "@autexis/balluff-007-protocol": "git+https://github.com/skadisch/balluff-007-protocol.git#0cf7e32dbc0f512d2646809291c8486444a1477d"
     }
 }
